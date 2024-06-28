@@ -1,6 +1,6 @@
 ## RAPPORT DU PROJET FINAL PYTHON/R
 
-### Membres du groupe
+### Membres du groupe 2
 1- ADISSO Nelxie IA 9%
 
 2- AGBOHOUN Obed GL 9%
