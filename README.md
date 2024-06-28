@@ -55,19 +55,6 @@ Pour faire les visualisations dans une analyse de données on utilise générale
 
 
 ### TACHE 3 
-L’objectif est de créer une application GUI qui permettra de générer des images avec le modèle léger de Hugging Face, tiny-stable-diffusion-pipe, avec Tkinter en Python. Notre application se nomme GraphiGen 2024. Avec elle, générez vos images en toute sécurité.
+L’objectif est de créer une application GUI qui permettra de générer des images avec le modèle léger de Hugging Face, tiny-stable-diffusion-pipe, avec Tkinter en Python. Avec notre application générez vos images en toute sécurité.
 
-#### Fonctionnement
-La question est de savoir comment elle fonctionne. D’abord, en exécutant notre code Python nommé `app.py`, vous tomberez sur une page de chargement ci-dessous :
-
-[Insérer image de la page de chargement ici]
-
-Après cette page de chargement, vous obtiendrez cette page ci-dessous où l’application vous demandera si vous voulez générer une image ou quitter l’application.
-
-[Insérer image de la page de menu principal ici]
-
-En appuyant sur Generate, vous obtiendrez la page ci-dessous où vous allez écrire le prompt, c’est-à-dire le texte qui vous permettra de générer votre image, puis appuyer sur le bouton Let’s go. Après quelques secondes, votre image générée apparaîtra dans la case juste en bas du bouton. Ensuite, vous pouvez décider de générer d’autres images ou appuyer sur le bouton Back pour revenir à la page précédente.
-
-[Insérer image de la page de génération d'image ici]
-
-
+Pour utiliser l'application de génération d'images, suivez ces étapes simples : après le lancement de l'application, saisissez une description dans le champ prévu, puis cliquez sur le bouton "Générer". Pendant le traitement, une animation GIF de chargement indiquera l'avancement. Une fois l'image générée, elle s'affichera dans le cadre dédié. Vous pouvez enregistrer l'image en cliquant sur le bouton "Retour" pour quitter l'application ou générer d'autres images en répétant le processus. Cette interface intuitive facilite la création d'images à partir de descriptions textuelles, offrant ainsi une expérience conviviale et interactive.
