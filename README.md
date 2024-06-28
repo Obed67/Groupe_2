@@ -2,14 +2,23 @@
 
 ### Membres du groupe
 1- ADISSO Nelxie IA 9%
+
 2- AGBOHOUN Obed GL 9%
+
 3- ANAGO Miguel IA 9% 
+
 4- AZON Joanes GL 9%
+
 5- FAIZOUN Cendrelle GL 9%
+
 6- FAVI Ebenezer GL 9%
+
 7- LAOUROU Jennifer GL 9%
+
 8- MIKO Sènakpon Jean-Baptiste GL 9%
+
 9- SEKPE Gbetondji Dimitri Alberic IA 9% 
+
 10- YEHOUETA Edme Jorias Mahugnon IA 9%
 
 ### TACHE 1
