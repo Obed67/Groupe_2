@@ -36,5 +36,5 @@ Pour faire les visualisations dans une analyse de données on utilise générale
 
 #### Matrix de corrélation du dataset avec ‘ggplot’
 ![Matrix de corrélation du dataset](images/6.png)
-**CONCLUSION :** la matrice de corrélation est vraiment importante pour pouvoir faire du feature selection, elle permet de voir la relation ou le lien entre les colonnes de notre dataset en général. On peut en déduire ici qu’il n’y a pas une forte corrélation entre les colonnes de notre jeu de données.
+**CONCLUSION :** la matrice de corrélation est vraiment importante pour pouvoir faire du feature selection, elle permet de voir la relation ou le lien entre les variables deux à deux de notre dataset en général. On peut en déduire ici qu’il n’y a pas une forte corrélation entre les colonnes de notre jeu de données.
 
