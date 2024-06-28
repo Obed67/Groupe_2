@@ -1,4 +1,19 @@
-# RAPPORT DU PROJET
+## RAPPORT DU PROJET FINAL PYTHON/R
+
+### Membres du groupe
+1- ADISSO Nelxie IA 9%
+2- AGBOHOUN Obed GL 9%
+3- ANAGO Miguel IA 9% 
+4- AZON Joanes GL 9%
+5- FAIZOUN Cendrelle GL 9%
+6- FAVI Ebenezer GL 9%
+7- LAOUROU Jennifer GL 9%
+8- MIKO Sènakpon Jean-Baptiste GL 9%
+9- SEKPE Gbetondji Dimitri Alberic IA 9% 
+10- YEHOUETA Edme Jorias Mahugnon IA 9%
+
+### TACHE 1
+Cette tâche consiste en l'implémentation d'une classe Array en Python pour répliquer certaines fonctionnalités de base de la bibliothèque NumPy. La classe permet la création de tableaux à une ou deux dimensions et supporte diverses opérations élémentaires telles que l'addition, la soustraction, la multiplication, et la division. Le produit scalaire et la recherche d'éléments sont également implémentés. Les opérations élémentaires sont définies en surchargeant les opérateurs correspondants pour les tableaux 1D et 2D. L'indexage et le slicing sont gérés par la surcharge des méthodes `__getitem__` et `__setitem__`. Des tests unitaires ont été effectués pour valider chaque fonctionnalité implémentée. Cette classe Array permet ainsi la manipulation et l'opération sur les tableaux 1D et 2D, reproduisant plusieurs fonctionnalités de base de NumPy et pouvant servir de base pour des développements futurs.
 
 ## TACHE 2 : Tracé de Graphiques et Analyse de Données
 
@@ -37,4 +52,22 @@ Pour faire les visualisations dans une analyse de données on utilise générale
 #### Matrix de corrélation du dataset avec ‘ggplot’
 ![Matrix de corrélation du dataset](images/6.png)
 **CONCLUSION :** la matrice de corrélation est vraiment importante pour pouvoir faire du feature selection, elle permet de voir la relation ou le lien entre les variables deux à deux de notre dataset en général. On peut en déduire ici qu’il n’y a pas une forte corrélation entre les colonnes de notre jeu de données.
+
+
+### TACHE 3 
+L’objectif est de créer une application GUI qui permettra de générer des images avec le modèle léger de Hugging Face, tiny-stable-diffusion-pipe, avec Tkinter en Python. Notre application se nomme GraphiGen 2024. Avec elle, générez vos images en toute sécurité.
+
+#### Fonctionnement
+La question est de savoir comment elle fonctionne. D’abord, en exécutant notre code Python nommé `app.py`, vous tomberez sur une page de chargement ci-dessous :
+
+[Insérer image de la page de chargement ici]
+
+Après cette page de chargement, vous obtiendrez cette page ci-dessous où l’application vous demandera si vous voulez générer une image ou quitter l’application.
+
+[Insérer image de la page de menu principal ici]
+
+En appuyant sur Generate, vous obtiendrez la page ci-dessous où vous allez écrire le prompt, c’est-à-dire le texte qui vous permettra de générer votre image, puis appuyer sur le bouton Let’s go. Après quelques secondes, votre image générée apparaîtra dans la case juste en bas du bouton. Ensuite, vous pouvez décider de générer d’autres images ou appuyer sur le bouton Back pour revenir à la page précédente.
+
+[Insérer image de la page de génération d'image ici]
+
 
